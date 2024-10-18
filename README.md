@@ -40,10 +40,13 @@ O TT bank possui um menu facil e interativo de usar, para cada operacao escolha 
 **Criar Conta** Ao selecionar a opção 3, o usuário deve fornecer um nome válido. O sistema irá verificar e, se for válido, a conta será criada.
 
 
-**Depósito** Para fazer um depósito, o usuário deve selecionar a opção 4 e inserir o valor desejado. O valor será adicionado ao saldo.
-
-
 **Saque** Para sacar, o usuário seleciona a opção 1, insere o valor e, se houver saldo suficiente, o saque será realizado com sucesso.
 
 
+**Depósito** Para fazer um depósito, o usuário deve selecionar a opção 4 e inserir o valor desejado. O valor será adicionado ao saldo.
+
+
 **Ver Saldo** A opção 2 exibirá o saldo atual da conta.
+
+## Protecao
+O Sistema verifica todas as entradas de dados garantindo que tudo seja passado corretamente e tambem a cada operacao verifica se a conta do usuario e valida
