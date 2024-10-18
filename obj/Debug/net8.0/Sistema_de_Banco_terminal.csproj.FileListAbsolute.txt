@@ -1,0 +1,15 @@
+/home/brayan_dev/Área de Trabalho/FuelMaster/Sistema_de_Banco_terminal/bin/Debug/net8.0/Sistema_de_Banco_terminal
+/home/brayan_dev/Área de Trabalho/FuelMaster/Sistema_de_Banco_terminal/bin/Debug/net8.0/Sistema_de_Banco_terminal.deps.json
+/home/brayan_dev/Área de Trabalho/FuelMaster/Sistema_de_Banco_terminal/bin/Debug/net8.0/Sistema_de_Banco_terminal.runtimeconfig.json
+/home/brayan_dev/Área de Trabalho/FuelMaster/Sistema_de_Banco_terminal/bin/Debug/net8.0/Sistema_de_Banco_terminal.dll
+/home/brayan_dev/Área de Trabalho/FuelMaster/Sistema_de_Banco_terminal/bin/Debug/net8.0/Sistema_de_Banco_terminal.pdb
+/home/brayan_dev/Área de Trabalho/FuelMaster/Sistema_de_Banco_terminal/obj/Debug/net8.0/Sistema_de_Banco_terminal.GeneratedMSBuildEditorConfig.editorconfig
+/home/brayan_dev/Área de Trabalho/FuelMaster/Sistema_de_Banco_terminal/obj/Debug/net8.0/Sistema_de_Banco_terminal.AssemblyInfoInputs.cache
+/home/brayan_dev/Área de Trabalho/FuelMaster/Sistema_de_Banco_terminal/obj/Debug/net8.0/Sistema_de_Banco_terminal.AssemblyInfo.cs
+/home/brayan_dev/Área de Trabalho/FuelMaster/Sistema_de_Banco_terminal/obj/Debug/net8.0/Sistema_de_Banco_terminal.csproj.CoreCompileInputs.cache
+/home/brayan_dev/Área de Trabalho/FuelMaster/Sistema_de_Banco_terminal/obj/Debug/net8.0/Sistema_de_Banco_terminal.sourcelink.json
+/home/brayan_dev/Área de Trabalho/FuelMaster/Sistema_de_Banco_terminal/obj/Debug/net8.0/Sistema_de_Banco_terminal.dll
+/home/brayan_dev/Área de Trabalho/FuelMaster/Sistema_de_Banco_terminal/obj/Debug/net8.0/refint/Sistema_de_Banco_terminal.dll
+/home/brayan_dev/Área de Trabalho/FuelMaster/Sistema_de_Banco_terminal/obj/Debug/net8.0/Sistema_de_Banco_terminal.pdb
+/home/brayan_dev/Área de Trabalho/FuelMaster/Sistema_de_Banco_terminal/obj/Debug/net8.0/Sistema_de_Banco_terminal.genruntimeconfig.cache
+/home/brayan_dev/Área de Trabalho/FuelMaster/Sistema_de_Banco_terminal/obj/Debug/net8.0/ref/Sistema_de_Banco_terminal.dll
