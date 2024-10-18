@@ -31,6 +31,8 @@ O TT bank possui um menu facil e interativo de usar, para cada operacao escolha 
 ## Estrutura do Projeto
 
 **Classe Tt_Bank_Interface** Contém o menu de interação e o loop principal da aplicação. Permite que o usuário escolha uma operação bancária.
+
+
 **Classe TtBank_Backend** Define as funcionalidades bancárias como criação de contas, depósitos, saques e exibição de saldo. Ela também mantém o estado da conta do usuário.
 
 
