@@ -22,10 +22,10 @@
 
 O TT bank possui um menu facil e interativo de usar, para cada operacao escolha o numero no menu 
 ``` 
-                        [1] Sacar            [2] Ver Saldo        [3] Criar Conta        [4] Depositar  [5] Sair 
+[1] Sacar            [2] Ver Saldo        [3] Criar Conta        [4] Depositar  [5] Sair 
 
 
-                         Escolha uma opção: 
+Escolha uma opção: 
 ```
 
 ## Estrutura do Projeto
